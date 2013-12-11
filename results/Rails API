@@ -1,0 +1,12 @@
+Transactions:		       15000 hits
+Availability:		      100.00 %
+Elapsed time:		       38.29 secs
+Data transferred:	        0.29 MB
+Response time:		        0.04 secs
+Transaction rate:	      391.75 trans/sec
+Throughput:		        0.01 MB/sec
+Concurrency:		       14.98
+Successful transactions:       15000
+Failed transactions:	           0
+Longest transaction:	        0.14
+Shortest transaction:	        0.00
